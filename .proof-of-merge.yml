@@ -1,0 +1,6 @@
+version: 1
+label: proof-of-merge
+default_amount: "0.05"
+tiers:
+  pom-large: "0.25"
+max_per_month: "2"
